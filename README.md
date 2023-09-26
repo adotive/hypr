@@ -3,6 +3,7 @@
 > O objetivo é ser simples, focado especialmente no uso quase que inteiramente no teclado, e acima de tudo eficiente.
 
 **Keybinds adicionadas:** <br>
-`Mod+W` =  Abre o Firefox <br>
-`Mod+E` =  Abre o LF
+`Mod+W` =  Abre o `Firefox` <br>
+`Mod+E` =  Abre o `lf` <br>
+`Mod+SHIFT+S` = Abre o `grim` (screenshot)
 
