@@ -5,6 +5,6 @@
 **Keybinds adicionadas:** <br>
 `Mod+W` =  Open [Firefox](https://www.mozilla.org/en-US/firefox/) (Navegador)<br>
 `Mod+E` =  Open [Ranger](https://github.com/ranger/ranger) Gerenciador de arquivos)<br> 
-`Mod+SHIFT+S` = Open [Grim](https://github.com/emersion/grim) (Screenshot)
+`Mod+SHIFT+S` = Open [Grim](https://github.com/emersion/grim) (Screenshot)<br>
 `Mod+SHIFT+X`= Close Hyprland
 
